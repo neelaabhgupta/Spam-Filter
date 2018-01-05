@@ -1,7 +1,6 @@
 # Spam-Filter
 
-Spam Filter : 
-==============
+
 Basic Approach of our solution:
 -------------------------------
 We followed the following explanation for our approach in Spam Filter:
